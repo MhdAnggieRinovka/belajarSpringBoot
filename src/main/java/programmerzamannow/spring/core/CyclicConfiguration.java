@@ -5,7 +5,6 @@ import org.springframework.context.annotation.Configuration;
 import programmerzamannow.spring.core.cyclic.CyclicA;
 import programmerzamannow.spring.core.cyclic.CyclicB;
 import programmerzamannow.spring.core.cyclic.CyclicC;
-
 @Configuration
 public class CyclicConfiguration {
     @Bean
